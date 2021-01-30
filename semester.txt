@@ -1,0 +1,14 @@
+STS1101
+Fundamentals of Aptitude
+STS1102
+Arithmetic Problem Solving
+STS1201
+Introduction to Problem Solving
+STS1202
+Introduction to Quantitative, Logical and Verbal Ability
+STS2101
+Getting Started to Skill Enhancement
+STS2102
+Enhancing Problem Solving Skills
+STS2201
+Numerical Ability and Cognitive Intelligence

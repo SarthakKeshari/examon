@@ -1,0 +1,11 @@
+﻿id,question,opta,optb,optc,optd,answer
+1,2 + 3 =,2,9,3,5,D
+2,number of Es in ELEPHANT,5,2,6,9,B
+3,4 x 5=,11,18,20,25,C
+4,______ comes after 3 x 2,7,8,6,9,A
+5,9-5=,2,4,5,8,B
+6,69-58=,10,9,11,12,C
+7,"17, 15,22, 31 , what is the even number in this series",17,15,31,22,D
+8,1 ball is of Rs.10. Price of 3 balls is _____,20,30,10,40,B
+9,"Largest 3 digit number with 8,5,9",985,589,859,958,A
+10,"smallest 3 digit number with 2,0,4",24,402,204,240,C

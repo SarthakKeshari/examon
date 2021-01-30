@@ -1,0 +1,18 @@
+A1
+STS1101
+Fundamentals of Aptitude
+A2
+STS1101
+Fundamentals of Aptitude
+F1
+STS1102
+Arithmetic Problem Solving
+F2
+STS1102
+Arithmetic Problem Solving
+E1
+STS1202
+Introduction to Quantitative, Logical and Verbal Ability
+E2
+STS1202
+Introduction to Quantitative, Logical and Verbal Ability
